@@ -1,0 +1,22 @@
+# OS 관련
+.DS_Store
+Thumbs.db
+
+# 에디터 관련
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 임시 파일
+*.log
+*.tmp
+
+# Node.js (향후 사용 가능성 대비)
+node_modules/
+package-lock.json
+
+# 백업 파일
+*.bak
+*.backup

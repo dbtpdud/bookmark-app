@@ -30,19 +30,20 @@ HTML, CSS, JavaScript로 만든 간단하고 강력한 북마크 관리 애플�
 ## 🚀 사용 방법
 
 ### 1. 로컬에서 실행
+
 ```bash
 # 저장소 클론
-
-**👉 [앱 바로 가기]
-## 배포 주소
-https://dbtpdud.github.io/bookmark-app/
-
-# 폴더 이동
 cd bookmark-app
 
 # index.html 파일을 브라우저에서 열기
 # 또는 Live Server 확장 사용
+
 ```
+
+👉 [앱 바로 가기]
+
+배포 주소:
+https://dbtpdud.github.io/bookmark-app/
 
 ### 2. 북마크 추가하기
 1. 상단 폼에 제목, URL, 카테고리 입력

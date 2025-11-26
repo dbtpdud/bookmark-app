@@ -32,7 +32,10 @@ HTML, CSS, JavaScript로 만든 간단하고 강력한 북마크 관리 애플�
 ### 1. 로컬에서 실행
 ```bash
 # 저장소 클론
-git clone https://github.com/[사용자명]/bookmark-app.git
+
+**👉 [앱 바로 가기]
+## 배포 주소
+https://dbtpdud.github.io/bookmark-app/
 
 # 폴더 이동
 cd bookmark-app
